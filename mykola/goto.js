@@ -3,5 +3,3 @@ function gotoMainPage() {
 }
 
 document.body.addEventListener("onload",gotoMainPage());
-
-document.createElement("ul");
