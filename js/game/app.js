@@ -37,9 +37,9 @@ function mathRandomInt(a, b) {
 }
 
 function GetWinHorizontal(elem) {
-// Проверка победы по горизонтальным линиям
+    // Проверка победы по горизонтальным линиям
 
-// Список очков на линии
+    // Список очков на линии
     var Chess = [0, 0, 0];
     for (let indexY = 0; indexY < 3; indexY++) {
         for (let indexX = 0; indexX < 3; indexX++) {
@@ -51,7 +51,7 @@ function GetWinHorizontal(elem) {
         }
     }
     // есть ли победа одной из линий?
-    var win = Chess.indexOf(3,0); 
+    var win = Chess.indexOf(3, 0);
     return win;
 }
 
@@ -69,15 +69,14 @@ function GetWinDiagonal2(elem) {
         // Проверка на искомый елемент
         if (MathBoard[indexX][indexY] == elem) {
             Chess++;
-        } 
+        }
     }
     // проверка 
-    var win = Chess == 3 ? 1 : -1 ;
+    var win = Chess == 3 ? 1 : -1;
     return win;
 }
 
-function GetWinDiagonal1(elem) 
-{
+function GetWinDiagonal1(elem) {
     // Позиция в массиве
     let indexX = -1;
     var Chess = 0;
@@ -87,11 +86,11 @@ function GetWinDiagonal1(elem)
         if (MathBoard[indexX][indexX] == elem) {
             // если есть елеменет прибавляем к количеству клеток 1
             Chess++;
-        } 
+        }
     }
     // Проверка на победу
     // В сучае победы возвращаем 1, иначе -1
-    var win = Chess == 3 ? 1 : -1 
+    var win = Chess == 3 ? 1 : -1
     return win;
 }
 
@@ -109,27 +108,27 @@ function GetWinVertical(elem) {
     }
     // Если есть победа возвращаем ряд где есть победа
     // иначе -1
-    var win = Chess.indexOf(3,0);
+    var win = Chess.indexOf(3, 0);
     return win;
 }
 
 function AImove() {
     // Получаем рандомную позицию
-    idX = mathRandomInt(0,2);
-    idY = mathRandomInt(0,2);
+    idX = mathRandomInt(0, 2);
+    idY = mathRandomInt(0, 2);
     // Получаем соотвествуйщюю клетку
     cell = MathBoard[idX][idY];
     // если клетка пустая
-    if(cell == 0){
+    if (cell == 0) {
         // ходим
         MathBoard[idX][idY] = 2;
         // рисуем
         draw();
-    } else{
+    } else {
         // если занятая - повторяем
         AImove();
     }
-    
+
 }
 
 function whoseCell(x, y) {
@@ -145,7 +144,7 @@ function whoseCell(x, y) {
             // если клетку занял компьютер - ставим О
             return "O";
             break;
-        // если клетка не занята - оставляем пустой
+            // если клетка не занята - оставляем пустой
         case 0:
             return ' ';
             break;
@@ -169,8 +168,8 @@ function draw() {
 
 function WhoIsWinner() {
     // Две бул переменные отвечающие за побед пк и игрока соотвественноо
-    var ComputerWon = (GetWinVertical(2)  > -1 || GetWinHorizontal(2)  > -1 || GetWinDiagonal1(2) > -1 || GetWinDiagonal2(2) > -1);
-    var PlayerWon = (GetWinVertical(1)  > -1 || GetWinHorizontal(1)  > -1 || GetWinDiagonal1(1) > -1 || GetWinDiagonal2(1) > -1);
+    var ComputerWon = (GetWinVertical(2) > -1 || GetWinHorizontal(2) > -1 || GetWinDiagonal1(2) > -1 || GetWinDiagonal2(2) > -1);
+    var PlayerWon = (GetWinVertical(1) > -1 || GetWinHorizontal(1) > -1 || GetWinDiagonal1(1) > -1 || GetWinDiagonal2(1) > -1);
     // тут все очевидно
     if (ComputerWon) {
         alert("Микола - переможець!");
@@ -194,7 +193,7 @@ function WhoIsWinner() {
             // Если есть есть пустота - возвращаем
             if (zeros > 0) {
                 return;
-            } else 
+            } else
             // если нет побед и пустот - возвращаем нечью
             {
                 alert("Нічия!");
