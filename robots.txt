@@ -2,10 +2,7 @@ User-agent: *
 Allow: *.css
 Allow: *.js
 Allow: */pages
-Allow: /imges
+Allow: */imges
 Allow:/*
 
 Host: mij-drug-mykola-u-moldovi.42web.io
-
-
-
