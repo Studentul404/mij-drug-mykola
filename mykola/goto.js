@@ -3,3 +3,8 @@ function gotoMainPage() {
 }
 
 document.body.addEventListener("onload",gotoMainPage());
+
+
+if (document.getElementById('noneID') != null) {
+  console.log("error");
+}
