@@ -1,159 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\</loc>
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\index.html </loc>
+      <priority>1</priority>
+   </url>
 
+   <url>
 
-   <priority>1</priority>
-</url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\volunatri.html </loc>
+      <priority>1</priority>
+   </url>
 
-<url>
+   <url>
 
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\volunatri</loc>
-</url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\scoala.html </loc>
+      <priority>1</priority>
 
-<url>
 
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\scoala</loc>
+   </url>
 
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\vita de zi cu zi.html </loc>
+      <priority>1</priority>
 
-</url>
 
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\vita de zi cu zi</loc>
 
 
 
+   </url>
 
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\vidpochinok.html </loc>
+      <priority>1</priority>
 
-</url>
 
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\vidpochinok</loc>
 
 
 
+   </url>
 
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\vest.html </loc>
+      <priority>1</priority>
 
-</url>
 
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\vest</loc>
 
 
+   </url>
 
 
-</url>
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\slova.html </loc>
+      <priority>1</priority>
 
 
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\slova</loc>
 
 
 
+   </url>
 
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\sanatate.html </loc>
+      <priority>1</priority>
 
-</url>
 
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\sanatate</loc>
 
 
 
+   </url>
 
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\primaria.html </loc>
+      <priority>1</priority>
 
-</url>
 
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\primaria</loc>
 
 
 
+   </url>
 
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\pompierii.html </loc>
+      <priority>1</priority>
 
-</url>
 
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\pompierii</loc>
 
 
 
+   </url>
 
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\politia.html </loc>
+      <priority>1</priority>
 
-</url>
 
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\politia</loc>
 
 
 
+   </url>
 
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\nord.html </loc>
+      <priority>1</priority>
 
-</url>
 
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\nord</loc>
 
 
 
+   </url>
 
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\moldova.html </loc>
+      <priority>1</priority>
 
-</url>
 
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\moldova</loc>
 
 
 
+   </url>
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\familie.html </loc>
+      <priority>1</priority>
 
 
-</url>
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\familie</loc>
 
 
 
+   </url>
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\est.html </loc>
+      <priority>1</priority>
 
 
-</url>
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\est</loc>
 
 
 
+   </url>
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\doctor.html </loc>
+      <priority>1</priority>
 
 
-</url>
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\doctor</loc>
 
 
 
+   </url>
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\cumparaturi.html </loc>
+      <priority>1</priority>
 
 
-</url>
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\cumparaturi</loc>
 
 
 
+   </url>
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\alimente.html </loc>
+      <priority>1</priority>
 
 
-</url>
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\alimente</loc>
 
 
 
+   </url>
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\ajutor.html </loc>
+      <priority>1</priority>
+   </url>
 
-
-</url>
-<url>
-   <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\ajutor</loc>
-
-
-
-
-
-</url>
+</urlset>
