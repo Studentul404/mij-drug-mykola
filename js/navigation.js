@@ -62,7 +62,7 @@ export const nav = `<nav class="navbar navbar-expand-lg navbar-light fixed-top">
                   </a>
                </li>
                <li class="nav-item">
-                  <a class="nav-link" href="/pages/viata de zi cu zi.html">
+                  <a class="nav-link" href="/pages/vita de zi cu zi.html">
                      <span class="nav-link-text">Повсякденне життя – Viata de zi cu zi</span>
                   </a>
                </li>
