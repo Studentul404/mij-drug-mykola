@@ -80,6 +80,81 @@ switch ($request) {
     case '/500' :
         require __DIR__ . '/errors/500.html';
         break; 
+    case '/' :
+        require __DIR__ . '/main.html';
+        break;
+    case '/?i=1' :
+        require __DIR__ . '/main.html';
+        break; 
+    case '/ajutor?i=1' :
+        require __DIR__ . '/pages/ajutor.html';
+        break; 
+    case '/alimente?i=1' :
+        require __DIR__ . '/pages/alimente.html';
+        break; 
+    case '/asistenti?i=1' :
+        require __DIR__ . '/pages/asistenti.html';
+        break; 
+    case '/cumparaturi?i=1' :
+        require __DIR__ . '/pages/cumparaturi.html';
+        break; 
+    case '/doctor?i=1' :
+        require __DIR__ . '/pages/doctor.html';
+        break; 
+    case '/est?i=1' :
+        require __DIR__ . '/pages/est.html';
+        break; 
+    case '/familie?i=1' :
+        require __DIR__ . '/pages/familie.html';
+        break; 
+    case '/moldova?i=1' :
+        require __DIR__ . '/pages/moldova.html';
+        break; 
+    case '/nord?i=1' :
+        require __DIR__ . '/pages/nord.html';
+        break;
+    case '/politia?i=1' :
+        require __DIR__ . '/pages/politia.html';
+        break; 
+    case '/pompierii?i=1' :
+        require __DIR__ . '/pages/pompierii.html';
+        break; 
+    case '/primaria?i=1' :
+        require __DIR__ . '/pages/primaria.html';
+        break; 
+    case '/sanatate?i=1' :
+        require __DIR__ . '/pages/sanatate.html';
+        break; 
+    case '/scoala?i=1' :
+        require __DIR__ . '/pages/scoala.html';
+        break; 
+    case '/slova?i=1' :
+        require __DIR__ . '/pages/slova.html';
+        break; 
+    case '/sud?i=1' :
+        require __DIR__ . '/pages/sud.html';
+        break; 
+    case '/vest?i=1' :
+        require __DIR__ . '/pages/vest.html';
+        break; 
+    case '/vidpochinok?i=1' :
+        require __DIR__ . '/pages/vidpochinok.html';
+        break; 
+    case '/viata-de-zi-cu-zi?i=1' :
+        require __DIR__ . '/pages/vita de zi cu zi.html';
+        break; 
+    case '/voluntari?i=1' :
+        require __DIR__ . '/pages/voluntari.html';
+        break; 
+    case '/404?i=1' :
+        require __DIR__ . '/errors/404.html';
+        break; 
+    case '/403?i=1' :
+        require __DIR__ . '/errors/403.html';
+        break; 
+    case '/500?i=1' :
+        require __DIR__ . '/errors/500.html';
+        break; 
     default:
         require __DIR__ . '/errors/404.html';
 
