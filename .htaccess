@@ -1,0 +1,8 @@
+ErrorDocument 403 http://mij-drug-mykola-u-moldovi.42web.io/403
+ErrorDocument 404 http://mij-drug-mykola-u-moldovi.42web.io/404
+ErrorDocument 503 http://mij-drug-mykola-u-moldovi.42web.io/500
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+)$ index.php [QSA,L]

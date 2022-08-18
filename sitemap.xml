@@ -3,36 +3,26 @@
 
 
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\index.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io\index </loc>
       <priority>1</priority>
    </url>
 
    <url>
 
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\volunatri.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/volunatri </loc>
       <priority>1</priority>
    </url>
 
    <url>
 
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\scoala.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/scoala </loc>
       <priority>1</priority>
 
 
    </url>
 
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\vita de zi cu zi.html </loc>
-      <priority>1</priority>
-
-
-
-
-
-   </url>
-
-   <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\vidpochinok.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/viata-de-zi-cu-zi </loc>
       <priority>1</priority>
 
 
@@ -42,17 +32,7 @@
    </url>
 
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\vest.html </loc>
-      <priority>1</priority>
-
-
-
-
-   </url>
-
-
-   <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\slova.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/vidpochinok </loc>
       <priority>1</priority>
 
 
@@ -62,7 +42,17 @@
    </url>
 
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\sanatate.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/vest </loc>
+      <priority>1</priority>
+
+
+
+
+   </url>
+
+
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/slova </loc>
       <priority>1</priority>
 
 
@@ -72,7 +62,7 @@
    </url>
 
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\primaria.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/sanatate </loc>
       <priority>1</priority>
 
 
@@ -82,7 +72,7 @@
    </url>
 
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\pompierii.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/primaria </loc>
       <priority>1</priority>
 
 
@@ -92,7 +82,7 @@
    </url>
 
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\politia.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/pompierii </loc>
       <priority>1</priority>
 
 
@@ -102,7 +92,7 @@
    </url>
 
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\nord.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/politia </loc>
       <priority>1</priority>
 
 
@@ -112,7 +102,17 @@
    </url>
 
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\moldova.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/nord </loc>
+      <priority>1</priority>
+
+
+
+
+
+   </url>
+
+   <url>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/moldova </loc>
       <priority>1</priority>
 
 
@@ -121,7 +121,7 @@
 
    </url>
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\familie.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/familie </loc>
       <priority>1</priority>
 
 
@@ -130,7 +130,7 @@
 
    </url>
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\est.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/est </loc>
       <priority>1</priority>
 
 
@@ -139,7 +139,7 @@
 
    </url>
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\doctor.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/doctor </loc>
       <priority>1</priority>
 
 
@@ -148,7 +148,7 @@
 
    </url>
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\cumparaturi.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/cumparaturi </loc>
       <priority>1</priority>
 
 
@@ -157,7 +157,7 @@
 
    </url>
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\alimente.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/alimente </loc>
       <priority>1</priority>
 
 
@@ -166,7 +166,7 @@
 
    </url>
    <url>
-      <loc>http:\\mij-drug-mykola-u-moldovi.rf.gd\pages\ajutor.html </loc>
+      <loc>http:\\mij-drug-mykola-u-moldovi.42web.io/pages/ajutor </loc>
       <priority>1</priority>
    </url>
 

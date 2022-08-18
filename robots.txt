@@ -5,4 +5,4 @@ Allow: */pages
 Allow: */imges
 Allow:/*
 
-Host: mij-drug-mykola-u-moldovi.42web.io
+Host: http://mij-drug-mykola-u-moldovi.22web.org/
