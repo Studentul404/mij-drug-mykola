@@ -1,0 +1,19 @@
+name: CI -> Deploy to My website
+on:
+  push:
+    branches: [ master, Development ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      # Here is the deployment action
+      - name: Upload from repo via FTP
+        uses: airvzxf/ftp-deployment-action@latest
+        with:
+          server: ${{ ftpupload.net }}
+          user: ${{ epiz_32324421 }}
+          password: ${{ jU3bc977h }}
+          local_dir: "/"
+          remote_dir: "/home/vol18_1/epizy.com/epiz_32324421/htdocs"
+          delete: "false"
