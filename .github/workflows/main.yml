@@ -19,7 +19,7 @@ jobs:
           port: 21
           username: epiz_32324421
           password: ${{ secrets.ftp_password }}
-          server-dir: /home/vol18_1/epizy.com/epiz_32324421/
+          server-dir: /home/vol18_1/epizy.com/epiz_32324421/htdocs/
           exclude: |
             **/.git*
             **/.git*/**
