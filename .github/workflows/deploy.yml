@@ -11,9 +11,9 @@ jobs:
       - name: Upload from repo via FTP
         uses: airvzxf/ftp-deployment-action@latest
         with:
-          server: ${{ secret.ftpupload.net }}
-          user: ${{ secret.epiz_32324421 }}
-          password: ${{ secret.jU3bc977h }}
+          server: "ftpupload.net"
+          user: "epiz_32324421"
+          password: "secret.jU3bc977h"
           local_dir: "/"
           remote_dir: "/home/vol18_1/epizy.com/epiz_32324421/htdocs"
           delete: "false"
