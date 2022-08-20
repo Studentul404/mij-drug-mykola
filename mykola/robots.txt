@@ -1,8 +1,0 @@
-User-agent: *
-Allow: *.css
-Allow: *.js
-Allow: */pages
-Allow: /imges
-Allow:/*
-
-Host: prietenul-meu-mykola.epizy.com
